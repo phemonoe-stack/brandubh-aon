@@ -3,7 +3,7 @@ import pygame_menu
 import sys
 import random
 
-# ----------------------------- Brandubh V.3 (Audio Enhanced) -----------------------------
+# ----------------------------- Brandubh V.2.2.4 (Audio Enhanced) -----------------------------
 
 # --- Constants & Configuration ---
 BOARD_SIZE = 7
