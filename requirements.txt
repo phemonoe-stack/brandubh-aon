@@ -1,0 +1,4 @@
+sys
+random
+pygame-ce == 2.5.7
+pygame-menu-ce == 4.5.4
