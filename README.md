@@ -2,7 +2,7 @@
 
 An elegant, Python-powered implementation of **Brandubh**, a classic Irish board game belonging to the historic *Tafl* (Hnefatafl) family. This version features an interactive graphical user interface (GUI), customizable AI opponents with variable difficulties, full sound effects, and smooth menu navigation.
 
-![Description](brandubh_aon.png) 
+<img src="brandubh_aon.png" width="300" height="300">
 
 ## 📜 About Brandubh
 
